@@ -1,0 +1,66 @@
+What is a variable?
+
+
+#include<stdio.h> //standard input-output
+#include<conio.h> //Console input-output
+
+void main()//program start
+{
+	int x; //Declare 
+	float price;
+	char ch;
+}
+//Second Example 
+//Find the sum of two numbers
+
+#include<stdio.h> //standard input-output
+#include<conio.h> //Console input-output
+
+void main()//program start
+{
+	int x; 
+	int y;
+	int sum;
+	x =10; //ASSIGNMENT here 10 is getting assigend to x.
+	y=2;
+	sum=x+y;
+	printf("%d"//Specifier 
+	,sum);
+	
+}
+
+//Third Example 
+#include<stdio.h> //standard input-output
+#include<conio.h> //Console input-output
+
+void main()//program start
+{
+	int x; 
+	int y;
+	int sum;
+	x =10; 
+	y=2;
+	sum=x+y;
+	printf("%d" +%d=%d,x,y,sum);
+	
+}
+	
+
+//Fourth Example	
+
+//Fifth Example
+#include<stdio.h> 
+
+void main()
+{
+	int x=10;//Initialization
+	int y=20;
+	int sum=0; //We have to initialze 0 for always
+	sum=x+y;
+	printf("Sum is:%d\n",sum);	
+	printf("\n Bye");	
+	
+}
+
+Sema Gulati	 ma'am email: seema.cse@quantumeducation.in	
+
