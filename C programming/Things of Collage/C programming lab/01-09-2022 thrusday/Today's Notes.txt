@@ -1,0 +1,36 @@
+character,integer,float,doule,value(viod)
+
+scaf: it is use to take input from the keyboard(user)
+Syntax: scaf('%d',&var);
+%d: format specifier or(specifier)
+
+&: address of
+
+int x,y; OR int x; int y;
+
+\n : new line oparator
+%lf : double
+
+example
+
+#include<stdio.h>
+void main()
+{
+
+printf("Enter value of x\n");
+scanf("%d",&x);
+printf("Enter value of y\n");
+scanf("%d",&y);
+prod = x*y;
+printf("Product is %d", prod);
+}
+
+
+Questions
+Q1. WAP in c to calculate area and perimeter of the circle.
+	Pi=3.14;
+area =Pi*radius*radius;
+perimeter = 2*Pi*radius;
+
+Q2. WAP to calculate area of a triange.
+	area= 0.5*base*height;
