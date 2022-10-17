@@ -3,7 +3,7 @@
 
 void main(){
 
-	int num rem sum = 0;
+	int num, rem, sum = 0;
 	printf("Enter the number\n");
 	scanf("%d",&num);
 	
@@ -11,7 +11,8 @@ void main(){
 	{
 	
 	rem = num%10;
-	sum = 
+	sum = sum+rem;
+ 	printf("%d",sum);
 	
 	}	
 //	for (i=0, i=num, i++){
