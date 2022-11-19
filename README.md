@@ -8,6 +8,7 @@ I am create this to track all my learning in collage.
 - Add with phone:02-11-2022 Tuesday
 - Git push : 06-11-2022 Sunday (add C-programming Notes)
 - Git push : 18.11.2022 friday 
+- Git push : 19.11.2022 Saturday
 
 # Improtant Note
 - If you don't find any code which you think should be here then look once again carefully if you really don't see it then kindly create an issue regrading it we are open for all kinds of contributions
