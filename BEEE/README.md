@@ -1,0 +1,1 @@
+- For BEEE we were told to just study from the book of BEEE (i.e. Eagle's Basics of Electrical & Electronics Engineering) 5 chapters practice questions and for lab we just completed our files, That is the reason not much resources are here.
