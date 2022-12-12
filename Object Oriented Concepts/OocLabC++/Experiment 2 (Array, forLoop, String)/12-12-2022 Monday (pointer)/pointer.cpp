@@ -3,9 +3,9 @@
 
 using namespace std;
 
-void main(){
+int main(){
     int a, *ptr1, **ptr2;
-     ptr1= &a;
+    ptr1= &a;
     ptr2= &ptr1;
     cout<<"The address of a:"<<ptr1<<"\n";
     cout<<"The address of ptr1:"<<ptr2;
@@ -14,5 +14,6 @@ void main(){
     ptr1+=2;
     cout<<"The address of a :"<<ptr1<<"\n";
     ptr2+=2;
-    cout<<"The address of ptr1 :"<<ptr2<<"\n";
+    cout<<"The address of ptr1 :"<<ptr2<<"\n\n";
+    return 0;
 }
